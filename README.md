@@ -1,6 +1,6 @@
-# Auralis - 语音对话系统
+# Resona - 语音对话系统
 
-Auralis 是一个基于 Ollama 和 CosyVoice 的智能语音对话系统，支持实时语音识别、大语言模型对话和高质量语音合成。
+Resona 是一个基于 Ollama 和 CosyVoice 的智能语音对话系统，支持实时语音识别、大语言模型对话和高质量语音合成。
 
 ---
 
