@@ -1,0 +1,51 @@
+# 虚拟环境
+venv/
+.venv/
+env/
+.env
+
+# 字节码与缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.pytest_cache/
+
+# 本地配置
+backend/.env
+backend/config_local.py
+
+*.mp3
+*.wav
+*.webm
+temp_*
+
+backend/models/
+backend/app/core/models/
+
+node_modules/
+
+# Next.js
+.next/
+out/
+build/
+dist/
+
+# 环境变量
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# 调试日志
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+/backend/pretrained_models

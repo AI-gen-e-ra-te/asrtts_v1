@@ -1,0 +1,9 @@
+Defaulting to user installation because normal site-packages is not writeable
+Looking in indexes: https://mirrors.aliyun.com/pypi/simple/
+Collecting diffusers==0.29.0
+  Using cached https://mirrors.aliyun.com/pypi/packages/d5/68/a84d929518c9fbd65febcedd7810203bcac393f9cddd0603ec58df7f93f7/diffusers-0.29.0-py3-none-any.whl (2.2 MB)
+Collecting inflect==7.3.1
+  Using cached https://mirrors.aliyun.com/pypi/packages/c5/1c/b186bb7cf44e7fc19ac40a68b8cc971ec3d37ac246cf2582eb838304de8b/inflect-7.3.1-py3-none-any.whl (34 kB)
+Collecting pyworld==0.3.4
+  Downloading https://mirrors.aliyun.com/pypi/packages/1f/a0/94bef26b6e270cf8a0c795c906fcb6dddf6095b48f390b4729185d7c1eeb/pyworld-0.3.4.tar.gz (251 kB)
+  Installing build dependencies: started
